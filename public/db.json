@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "name": "Clementina DuBuque",
+        "gender":  "male",
+        "social": "viber",
+        "lastmessage": "Eligendi molestiae. Perspiciatis, suscipit! Incidunt quia labore harum vero officia quidem?",
+        "phone": "095 555 425 66",
+        "date": {"time": "12:23", "dmy": "12.09.2020"},
+        "readed": false
+    },
+    {
+        "id": 2,
+        "name": "Clementina DuBuque",
+        "gender":  "male",
+        "social": "telegram",
+        "lastmessage": "Lorem ipsum dolor. Perspiciatis, suscipit! Incidunt quia labore harum vero officia quidem?",
+        "phone": "095 245 425 66",
+        "date": {"time": "13:21", "dmy": "12.09.2020"},
+        "readed": true
+    },
+    {
+        "id": 3,
+        "name": "Clementina DuBuque",
+        "gender":  "female",
+        "social": "viber",
+        "lastmessage": "Dolor sit amet consectetur adipisicing elit. Eligendi molestiae.Suscipit! Incidunt quia labore harum vero officia quidem?",
+        "phone": "096 322 445 32",
+        "date": {"time": "11:25", "dmy": "12.09.2020"},
+        "readed": false
+    },
+    {
+        "id": 4,
+        "name": "Clementina DuBuque",
+        "gender":  "male",
+        "social": "telegram",
+        "lastmessage": "Perspiciatis, suscipit! Incidunt quia labore harum vero officia quidem?",
+        "phone": "096 522 425 32",
+        "date": {"time": "09:25", "dmy": "12.09.2020"},
+        "readed": false
+    },
+    {
+        "id": 5,
+        "name": "Clementina DuBuque",
+        "gender":  "male",
+        "social": "telegram",
+        "lastmessage": "Consectetur adipisicing elit. Eligendi molestiae.",
+        "phone": "097 123 425 32",
+        "date": {"time": "20:25", "dmy": "11.09.2020"},
+        "readed": true
+    },
+    {
+        "id": 6,
+        "name": "Clementina DuBuque",
+        "gender":  "female",
+        "social": "viber",
+        "lastmessage": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi molestiae. Perspiciatis, suscipit! Incidunt quia labore harum vero officia quidem?",
+        "phone": "097 155 123 12",
+        "date": {"time": "14:25", "dmy": "12.09.2020"},
+        "readed": false
+    },
+    {
+        "id": 7,
+        "name": "Clementina DuBuque",
+        "gender":  "male",
+        "social": "viber",
+        "lastmessage": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi molestiae. Perspiciatis, suscipit! Incidunt quia labore harum vero officia quidem?",
+        "phone": "097 664 232 11",
+        "date": {"time": "15:25", "dmy": "12.09.2020"},
+        "readed": false
+    },
+    {
+        "id": 8,
+        "name": "Clementina DuBuque",
+        "gender":  "female",
+        "social": "viber",
+        "lastmessage": "Sit amet consectetur adipisicing elit. Eligendi molestiae. Perspiciatis, suscipit! Incidunt quia labore harum vero officia quidem?",
+        "phone": "095 624 232 11",
+        "date": {"time": "14:25", "dmy": "12.09.2020"},
+        "readed": false
+    },
+    {
+        "id": 9,
+        "name": "Clementina DuBuque",
+        "gender":  "female",
+        "social": "viber",
+        "lastmessage": "Amet consectetur adipisicing elit. Eligendi molestiae. Perspiciatis, suscipit! Incidunt quia labore harum vero officia quidem?",
+        "phone": "097 523 888 12",
+        "date": {"time": "14:24", "dmy": "12.09.2020"},
+        "readed": false
+    },
+    {
+        "id": 10,
+        "name": "Clementina DuBuque",
+        "gender":  "male",
+        "social": "telegram",
+        "lastmessage": "Elit. Eligendi molestiae. Perspiciatis, suscipit! Incidunt quia labore harum vero officia quidem?",
+        "phone": "097 765 654 12",
+        "date": {"time": "16:25", "dmy": "12.09.2020"},
+        "readed": true
+    }
+]
